@@ -6,6 +6,7 @@ canvas {
     border: 1px solid black;
     background-color: white;
 }
+p {color: black}
 </style>
 
 <body id="body">
