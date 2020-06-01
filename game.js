@@ -453,6 +453,7 @@ function shield() {
  */
 function win() {
     console.log("good shootin pardner");
+    started = false;
     context.clearRect(0,0,canvas.width,canvas.height);
     context.fillText("You Won!", 235, 120);
     context.fillText("Thanks for playing my game!", 70, 200);
@@ -463,6 +464,7 @@ function win() {
  */
 function lose() {
     console.log("get along lil doggie");
+    started = false;
     context.clearRect(0,0,canvas.width,canvas.height);
     context.fillText("You lost!", 235, 150);
 }
