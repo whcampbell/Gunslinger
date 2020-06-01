@@ -1,16 +1,5 @@
 
 <html>
-<head>
-<title>Gunslinger</title>
-<style>
-canvas {
-    border: 1px solid black;
-    background-color: white;
-}
-h1 {text-align: center;}
-p {text-align: center;}
-</style>
-</head>
 
 <body id="body">
 <h1>Gunslinger<br></h1>
