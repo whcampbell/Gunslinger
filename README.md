@@ -14,7 +14,7 @@ p {color: black}
 <script src="ready.js"></script>
 <p>
     Choose between load, fire, and shield to beat your foe <br> 
-    You start with three bullets. Act quick, or you might find some new holes in you!
+    You start empty, but he has three slugs in his gun. Act fast!
 </p>
 <p><canvas id="myCanvas" width="600px" height="300px"></canvas></p>
 
