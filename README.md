@@ -18,9 +18,8 @@ p {color: black}
 </p>
 <p><canvas id="myCanvas" width="600px" height="300px"></canvas></p>
 
-<div style="text-align: center;">
-    <input value= "I'm Ready!" type="button" id="butt"></input>
-</div>
+<input value= "I'm Ready!" type="button" id="butt"></input>
+
 <script src="game.js"></script>
 </body>
 
