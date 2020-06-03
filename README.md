@@ -28,4 +28,6 @@ p {color: black}
 <p><sub>Special Thanks to Michael Gleicher and CS 559</sub></p>
 </footer>
 
+<a href="https://whcampbell.github.io/Ivys-Laboratory/">Go to my test page</a>
+
 </html>
