@@ -25,9 +25,10 @@ p {color: black}
 
 <footer>
 <p>This is a Will Campbell production</p>
+<a href="https://whcampbell.github.io/Ivys-Laboratory/">Go to my test page</a>
 <p><sub>Special Thanks to Michael Gleicher and CS 559</sub></p>
 </footer>
 
-<a href="https://whcampbell.github.io/Ivys-Laboratory/">Go to my test page</a>
+
 
 </html>
