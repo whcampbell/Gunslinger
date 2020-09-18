@@ -19,7 +19,8 @@ p {color: black}
 <p><canvas id="myCanvas" width="600px" height="300px"></canvas></p>
 
 <input value= "I'm Ready!" type="button" id="butt"/>
-
+<br>
+<br>
 <script src="game.js"></script>
 </body>
 
