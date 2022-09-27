@@ -26,7 +26,7 @@ p {color: black}
 
 <footer>
 <p>This is a Will Campbell production</p>
-<a href="https://whcampbell.github.io/Ivys-Castle/">Back to the Castle</a>
+<a href="https://whcampbell.github.io/Portfolio/">Back to Portfolio</a>
 <p><sub>Special Thanks to Michael Gleicher and CS 559</sub></p>
 </footer>
 
